@@ -9,18 +9,18 @@ Version 1.10
 **1b.** The Squad is an associated body of the UQ Union in the category of Faculty.
 
 **1c.** Definitions:
-- **a.** Financial Member - A member who has paid a membership fee as in sections 3 and 4
-- **b.** General Meeting – means both ‘Special General Meetings’ and ‘Annual General Meetings’
-- **c.** UQ - The University of Queensland.
+- **1c.i.** Financial Member - A member who has paid a membership fee as in sections 3 and 4
+- **1c.ii.** General Meeting – means both ‘Special General Meetings’ and ‘Annual General Meetings’
+- **1c.iii.** UQ - The University of Queensland.
 
 ## Part Two: Aims and Objectives
 
 **2a.** The aims of the Squad are:
-- **a)** To supplement students’ education in the field of Cyber Security
-- **b)** To provide an environment for collaboration and networking to connect students with the Cyber Security industry and related industries.
-- **c)** To create and provide materials that improve the cyber security of the UQ community.
-- **d)** To provide a community for developing skills for and competing in Capture the Flag and other cyber security-related competitions
-- **e)** To encourage and facilitate the development of relationships and social interactions between members and alumni of the Squad.
+- **2a.i.** To supplement students’ education in the field of Cyber Security
+- **2a.ii.** To provide an environment for collaboration and networking to connect students with the Cyber Security industry and related industries.
+- **2a.iii.** To create and provide materials that improve the cyber security of the UQ community.
+- **2a.iv.** To provide a community for developing skills for and competing in Capture the Flag and other cyber security-related competitions
+- **2a.v.** To encourage and facilitate the development of relationships and social interactions between members and alumni of the Squad.
 
 **2b.** The assets and income of the Squad must be applied solely to the above-mentioned objectives and no portion shall be distributed directly or indirectly to the members of the Squad except as bona fide compensation for services rendered or expenses incurred on behalf of the Squad.
 
@@ -29,9 +29,9 @@ Version 1.10
 ## Part Three: Membership
 
 **3a.** Membership of the Squad is open to:
-- **f)** Any student of the University of Queensland;
-- **g)** Any University of Queensland Academic or Professional Staff Member; and
-- **h)** Any other members of the University or wider community interested in the Squad’s activities.
+- **3a.i.** Any student of the University of Queensland;
+- **3a.ii.** Any University of Queensland Academic or Professional Staff Member; and
+- **3a.iii.** Any other members of the University or wider community interested in the Squad’s activities.
 
 **3b.** The Squad shall have no less than thirty (30) financial members.
 
@@ -62,10 +62,10 @@ Version 1.10
 **5b.** Such resignation shall take effect at the time such notice is received by the Secretary unless a later date is specified in the notice when it shall take effect on that later date.
 
 **5c.** The Management Committee shall consider whether the member’s membership shall be terminated if a member –
-- **1\)** fails to comply with any of the provisions of these rules;
-- **2\)** has membership fees in arrears;
-- **3\)** conducts themselves in a manner considered to be injurious or prejudicial to the character or interests of the Squad.
-- **4\)** breaches the Squad’s Code of Ethics and Conduct.
+- **5c.i.** fails to comply with any of the provisions of these rules;
+- **5c.ii.** has membership fees in arrears;
+- **5c.iii.** conducts themselves in a manner considered to be injurious or prejudicial to the character or interests of the Squad.
+- **5c.iv.** breaches the Squad’s Code of Ethics and Conduct.
 
 **5d.** The member concerned shall be given a full and fair opportunity of presenting the member’s case and if the Management Committee resolves to terminate the membership it shall instruct the Secretary to advise the member in writing accordingly.
 
@@ -74,10 +74,10 @@ Version 1.10
 ## Part Six: Register of members
 
 **6a.** The Management Committee must keep a register of the Squad’s members, including each member’s:
-- **1\)** Name;
-- **2\)** Student number (if applicable);
-- **3\)** Email address; and
-- **4\)** Date of membership.
+- **6a.i.** Name;
+- **6a.ii.** Student number (if applicable);
+- **6a.iii.** Email address; and
+- **6a.iv.** Date of membership.
 
 **6b.** Particulars shall also be entered into the register of resignations, terminations and reinstatement of membership and any further particulars as the Management Committee or the members at any general meeting may require from time to time.
 
@@ -88,11 +88,11 @@ Version 1.10
 ## Part Seven: Membership of Management Committee
 
 **7a.** The Management Committee of the Squad shall consist of the
-- **(a)** President,
-- **(b)** Secretary,
-- **(c)** Treasurer,
-- **(d)** Marketing Officer,
-- **(e)** Events Manager
+- **7a.i.** President,
+- **7a.ii.** Secretary,
+- **7a.iii.** Treasurer,
+- **7a.iv.** Marketing Officer,
+- **7a.v.** Events Manager
 
 **7b.** All members of the Management Committee must also be members of the Squad.
 
@@ -103,22 +103,22 @@ Version 1.10
 **7e.** At the annual general meeting of the Squad, all the members of the Management Committee for the time being shall retire from office but shall be eligible upon nomination for re-election.
 
 **7f.** The election of officers and other members of the Management Committee shall take place in the following manner:
-- **a)** Any member of the Squad shall be at liberty to nominate themselves or any other member to serve as a member of the Management Committee if they meet the requirements set in Sections 7b and 7c.
-- **b)** The nomination shall be lodged with the Secretary at least one (1) day before the annual general meeting at which the election is to take place.
-- **c)** Balloting lists shall be prepared (if necessary) containing the names of the candidates, categorised by nominated position, in alphabetical order.
-- **d)** Nominations from the floor shall be added to the ballot at the bottom of each position.
-- **e)** Whether a nominee for a position has expressed their interest prior to the general meeting, or is nominating from the floor, all nominees must be nominated by a nominator and seconder (one of which may be the nominee) at the annual general meeting.
-- **f)** Each member present at the annual general meeting shall be entitled to vote for any number of such candidates not exceeding the number of vacancies using a system of optional preferential voting.
-- **g)** In the case of a secret ballot, the assembly will select a returning officer, who shall be responsible for ensuring the orderly running elections.
-- **h)** At the conclusion of the introduction of nominees for each position, nominations may be taken from the floor.
-- **i)** A member who attends a general meeting online shall be eligible for nomination to the Management Committee
-- **j)** Any informality or irregularity in the elections must be brought to the attention of the Clubs and Societies Administration Officer within fourteen (14) days of the elections
+- **7f.i.** Any member of the Squad shall be at liberty to nominate themselves or any other member to serve as a member of the Management Committee if they meet the requirements set in Sections 7b and 7c.
+- **7f.ii.** The nomination shall be lodged with the Secretary at least one (1) day before the annual general meeting at which the election is to take place.
+- **7f.iii.** Balloting lists shall be prepared (if necessary) containing the names of the candidates, categorised by nominated position, in alphabetical order.
+- **7f.iv.** Nominations from the floor shall be added to the ballot at the bottom of each position.
+- **7f.v.** Whether a nominee for a position has expressed their interest prior to the general meeting, or is nominating from the floor, all nominees must be nominated by a nominator and seconder (one of which may be the nominee) at the annual general meeting.
+- **7f.vi.** Each member present at the annual general meeting shall be entitled to vote for any number of such candidates not exceeding the number of vacancies using a system of optional preferential voting.
+- **7f.vii.** In the case of a secret ballot, the assembly will select a returning officer, who shall be responsible for ensuring the orderly running elections.
+- **7f.viii.** At the conclusion of the introduction of nominees for each position, nominations may be taken from the floor.
+- **7f.ix.** A member who attends a general meeting online shall be eligible for nomination to the Management Committee
+- **7f.x.** Any informality or irregularity in the elections must be brought to the attention of the Clubs and Societies Administration Officer within fourteen (14) days of the elections
 
 ## Part Eight: The General Administration Committee
 
 **8a.** The Squad may also elect an additional General Administration Committee at any General Meeting, Members of this committee may consist of:
-- **a.1.** Infrastructure Officers
-- **a.2.** Any other members so appointed to the General Administration Committee at the General Meeting
+- **8a.i.** Infrastructure Officers
+- **8a.ii.** Any other members so appointed to the General Administration Committee at the General Meeting
 
 **8b.** All members of the General Administration Committee must also be members of the Squad.
 
@@ -137,46 +137,46 @@ Version 1.10
 ## Part Nine: Equity Officers
 
 **9a.** The Squad shall hold elections for two Equity Officers at the Annual General Meeting.
-- **a.a)** At least one Equity Officer must identify as either female or non-binary.
+- **9a.i.** At least one Equity Officer must identify as either female or non-binary.
 
 **9b.** A casual vacancy shall exist in the role of Equity Officer if at any point:
-- **b.a)** There are no Equity Officers
-- **b.b)** There is no Equity Officer who identifies as a woman or non-binary.
+- **9b.i.** There are no Equity Officers
+- **9b.ii.** There is no Equity Officer who identifies as a woman or non-binary.
 
 **9c.** A casual vacancy in the role of Equity Officer must be filled by a vote of the general membership as soon as is permitted by the Constitution.
 
 **9d.** Where a casual vacancy exists as defined by b) above, a person validly elected does not vacate their position.
-- **d.a)** For the avoidance of doubt, if the Annual General Meeting concludes with only one man elected as Equity Officer, then that man continues as Equity Officer, and nominations must be sought for an additional Equity Officer.
+- **9d.i.** For the avoidance of doubt, if the Annual General Meeting concludes with only one man elected as Equity Officer, then that man continues as Equity Officer, and nominations must be sought for an additional Equity Officer.
 
 **9e.** The Equity Officers shall report to the Management Committee on issues affecting equity, diversity, and inclusion.
 
 **9f.** The Equity Officers shall create, lead, advocate for and advertise for more diversity on CTF teams, and/or more diversity-focused CTF teams within the Squad and in the CTF community at large.
 
 **9g.** The Equity Officers shall be responsible for keeping events safe by:
-- **g.a)** Ensuring there will be an attendee who can assist any member who feels unsafe or experiences any incident
-- **g.b)** Ensuring that all members know how to contact this member during events
-- **g.c)** Excluding from events any person who makes a member unsafe or feel unsafe.
-  - **g.c.1.** In the case of a member this shall be temporary, pending management committee decision under Section 5.
-- **g.d)** Reporting any such exclusions to the UQ Union and the Management Committee
-- **g.e)** Advocating for and supporting victims during and after any incident that occurs
+- **9g.i.** Ensuring there will be an attendee who can assist any member who feels unsafe or experiences any incident
+- **9g.ii.** Ensuring that all members know how to contact this member during events
+- **9g.iii.** Excluding from events any person who makes a member unsafe or feel unsafe.
+  - **9g.iii.1.** In the case of a member this shall be temporary, pending management committee decision under Section 5.
+- **9g.iv.** Reporting any such exclusions to the UQ Union and the Management Committee
+- **9g.v.** Advocating for and supporting victims during and after any incident that occurs
 
 **9h.** The Equity Officers shall be responsible for making competition teams inclusive by:
-- **h.a)** Making competitors aware that they do not have to share a team with people they don’t feel comfortable sharing a team with
-- **h.b)** Taking reports from competitors or members of the Management Committee or any subcommittee about any other persons that they don’t feel comfortable sharing a team with
-- **h.c)** Ensuring that no competitor is placed on a team with someone they don’t feel comfortable sharing a team with.
-- **h.d)** Whenever reasonably possible, Whenever reasonably possible, ensuring that the top-performing team nominated to enter any competition includes at least one woman
-  - **h.d.1.** ‘Reasonably’ in this case refers to the nature of the competition. This is  solely at the discretion of the Equity Officers.
-- **h.e)** Ensuring that people of diverse backgrounds and genders and genders are given access and opportunities to training to support their appointment to top-performing teams.
+- **9h.i.** Making competitors aware that they do not have to share a team with people they don’t feel comfortable sharing a team with
+- **9h.ii.** Taking reports from competitors or members of the Management Committee or any subcommittee about any other persons that they don’t feel comfortable sharing a team with
+- **9h.iii.** Ensuring that no competitor is placed on a team with someone they don’t feel comfortable sharing a team with.
+- **9h.iv.** Whenever reasonably possible, Whenever reasonably possible, ensuring that the top-performing team nominated to enter any competition includes at least one woman
+  - **9h.iv.1.** ‘Reasonably’ in this case refers to the nature of the competition. This is  solely at the discretion of the Equity Officers.
+- **9h.v.** Ensuring that people of diverse backgrounds and genders and genders are given access and opportunities to training to support their appointment to top-performing teams.
 
 **9i.** Equitable conduct on Committees
-- **i.a)** Committee members are required to uphold the values of equity, diversity diversity, and inclusion.
-- **i.b)** A decision by any committee is invalid if it creates or is likely to create inequitable conditions for marginalised persons in the Squad.
-- **i.c)** Where a member of any Squad committee acts in a racist, sexist or otherwise derogatory manner, or acts in any way that similarly lowers the reputation of the Squad, the Equity officer may exclude that person from the relevant committee.
-- **i.d)** If a committee member affected by the previous clause is the President, Secretary, or Treasurer, the Management Committee must meet to decide the tenability of the member's elected position.
-- **i.e)** Any such decision by the Management Committee may be appealed to the UQU Clubs and Societies Committee.
+- **9i.i.** Committee members are required to uphold the values of equity, diversity diversity, and inclusion.
+- **9i.ii.** A decision by any committee is invalid if it creates or is likely to create inequitable conditions for marginalised persons in the Squad.
+- **9i.iii.** Where a member of any Squad committee acts in a racist, sexist or otherwise derogatory manner, or acts in any way that similarly lowers the reputation of the Squad, the Equity officer may exclude that person from the relevant committee.
+- **9i.iv.** If a committee member affected by the previous clause is the President, Secretary, or Treasurer, the Management Committee must meet to decide the tenability of the member's elected position.
+- **9i.v.** Any such decision by the Management Committee may be appealed to the UQU Clubs and Societies Committee.
 
 **9j.** Definitions:
-- **j.a)** The “top-performing team” is any team that is named such that it identifies them as the Squad’s best players, including words like “Team A” or similar
+- **9j.i.** The “top-performing team” is any team that is named such that it identifies them as the Squad’s best players, including words like “Team A” or similar
 
 ## Part Ten: Resignation or removal from office of member of Management Committee
 
@@ -187,9 +187,9 @@ Version 1.10
 **10c.** There is no right of appeal against a member’s removal from the office under this section.
 
 **10d.** A member of the Management Committee shall have their position terminated if they:
-- **1\)** Die,
-- **2\)** Cease being a member of the Squad,
-- **3\)** Fail to, within reason, fulfil the obligations of their position and/or the Constitution or the Code of Ethics and Conduct.
+- **10d.i.** Die,
+- **10d.ii.** Cease being a member of the Squad,
+- **10d.iii.** Fail to, within reason, fulfil the obligations of their position and/or the Constitution or the Code of Ethics and Conduct.
 
 **10e.** In the case of point 10d.3 the matter will be determined at a general meeting as per 10b
 
@@ -204,8 +204,8 @@ Version 1.10
 ## Part Twelve: Functions of the Management Committee
 
 **12a.** Except as otherwise provided by these rules and subject to resolutions of the members of the Squad carried at any general meeting the Management Committee:
-- **a)** Shall have the general control and management of the administration of the affairs and funds of the Squad;
-- **b)** Shall have authority to interpret the meaning of these rules and any matter relating to the Squad on which these rules are silent.
+- **12a.i.** Shall have the general control and management of the administration of the affairs and funds of the Squad;
+- **12a.ii.** Shall have authority to interpret the meaning of these rules and any matter relating to the Squad on which these rules are silent.
 
 **12b.** The Management Committee may exercise all the power of the Squad to raise or secure the payment of money as the members of the Society may think fit and secure the payment or performance of any debt, liability or other engagement incurred or to be entered into by the Squad in any way.
 
@@ -246,13 +246,13 @@ Version 1.10
 **14b.** Any subcommittee formed will exercise the powers in line with any regulations that may be imposed on it by the Management Committee.
 
 **14c.** Such a subcommittee consists of at least 2 people:
-- **a)** Members of the subcommittee are free to leave the subcommittee at any time, but should advise the Management Committee beforehand so that their responsibilities (if any) can be reassigned.
-- **b)** Members of the club may self-nominate for a position in the subcommittee
-- **c)** Subcommittee appointments are made by the Management Committee.
+- **14c.i.** Members of the subcommittee are free to leave the subcommittee at any time, but should advise the Management Committee beforehand so that their responsibilities (if any) can be reassigned.
+- **14c.ii.** Members of the club may self-nominate for a position in the subcommittee
+- **14c.iii.** Subcommittee appointments are made by the Management Committee.
 
 **14d.** Management Committee shall create terms of reference for subcommittees including:
-- **a)** The goals of the subcommittee
-- Any Management Committee powers that have been delegated to the subcommittee
+- **14d.i.** The goals of the subcommittee
+- **14d.ii.** Any Management Committee powers that have been delegated to the subcommittee
 
 **14e.** Management Committee may appoint the chairperson of such subcommittees or leave the election of the chairperson to the membership of the subcommittee.
 
@@ -279,9 +279,9 @@ Version 1.10
 ## Part Seventeen: Subsequent Annual General Meeting
 
 **17a.** Each subsequent annual general meeting must be held:
-- **(a)** at least once each year
-- **(b)** within three (3) months after the end of the squad’s previous financial year.
-- **(c)** The annual general meeting will be held in the month of October each year.
+- **17a.i.** at least once each year
+- **17a.ii.** within three (3) months after the end of the squad’s previous financial year.
+- **17a.iii.** The annual general meeting will be held in the month of October each year.
 
 **17b.** If a force majeure event prevents a general meeting to be held during October, the Annual General Meeting must be held as soon as practicable after October.
 
@@ -292,21 +292,21 @@ Version 1.10
 ## Part Eighteen: Business to be transacted at Annual General Meeting
 
 **18a.** The following business must be transacted at every annual general meeting:
-- **a)** The receiving of the statement of income and expenditure, assets and liabilities for the last financial year prepared by the Treasurer.
-- **b)** The receiving of reports from the President and Secretary.
-- **c)** The receiving of the auditor’s report on the financial affairs of the Squad for the last financial year.
-- **d)** The presenting of the audited statement to the meeting for adoption.
-- **e)** The election of members of the Management Committee.
-- **f)** The appointment of an auditor who shall be the nominee of the Union for club/societies or an independent auditor or who must be a member of the Institute of Chartered Accountants in Australia or the Australian Association of Accountants or a successor to either of these bodies.
-- **g)** The appointment of life members of the Squad.
-- **h)** The minutes of the annual general meeting shall be submitted to the clubs and Societies Administration Officer within seven (7) days of the annual general meeting.
-- **i)** Where there is a tied vote, the issue will be deemed to have been resolved in the negative.
+- **18a.i.** The receiving of the statement of income and expenditure, assets and liabilities for the last financial year prepared by the Treasurer.
+- **18a.ii.** The receiving of reports from the President and Secretary.
+- **18a.iii.** The receiving of the auditor’s report on the financial affairs of the Squad for the last financial year.
+- **18a.iv.** The presenting of the audited statement to the meeting for adoption.
+- **18a.v.** The election of members of the Management Committee.
+- **18a.vi.** The appointment of an auditor who shall be the nominee of the Union for club/societies or an independent auditor or who must be a member of the Institute of Chartered Accountants in Australia or the Australian Association of Accountants or a successor to either of these bodies.
+- **18a.vii.** The appointment of life members of the Squad.
+- **18a.viii.** The minutes of the annual general meeting shall be submitted to the clubs and Societies Administration Officer within seven (7) days of the annual general meeting.
+- **18a.ix.** Where there is a tied vote, the issue will be deemed to have been resolved in the negative.
 
 ## Part Nineteen: Special General Meeting
 
 **19a.** The Secretary shall convene a special general meeting by sending out notice of the meeting within fourteen (14) days of:
-- **1\)** Being directed to do so by the Management Committee.
-- **2\)** Being given a requisition in writing signed by not less than one-third (1/3) of the members presently on the Management Committee or from ordinary members not less than the number of members required for a quorum at a general meeting as per 20a.
+- **19a.i.** Being directed to do so by the Management Committee.
+- **19a.ii.** Being given a requisition in writing signed by not less than one-third (1/3) of the members presently on the Management Committee or from ordinary members not less than the number of members required for a quorum at a general meeting as per 20a.
 
 **19b.** A requisition mentioned in subsection 19a.2 shall clearly state the reasons why such special general meeting is being convened and the nature of the business to be transacted thereat.
 
@@ -328,13 +328,13 @@ Version 1.10
 
 ## Part Twenty-One: Procedure at a general meeting
 
-Unless otherwise provided by these rules, at every general meeting:
-- **1\)** The President shall preside as chairperson or if there is no President, or if the President is not present within fifteen (15) minutes after the time appointed for the holding of the meeting or is unwilling to act, the Secretary shall be the chairperson or if the Secretary is not present or is unwilling to act then the members present shall elect one (1) of their number to be chairperson of the meeting
-- **2\)** The chairperson shall maintain order and conduct the meeting in a proper and orderly manner
-- **3\)** Every question, matter or resolution shall be decided by a majority of votes of the members present
-  - **a)** every such resolution must be minuted.
-- **4\)** No votes may be exercised by proxy.
-- **5\)** Where a member is attending online, the chairperson shall record their vote if the ballot is not secret.
+**21a.** Unless otherwise provided by these rules, at every general meeting:
+- **21a.i.** The President shall preside as chairperson or if there is no President, or if the President is not present within fifteen (15) minutes after the time appointed for the holding of the meeting or is unwilling to act, the Secretary shall be the chairperson or if the Secretary is not present or is unwilling to act then the members present shall elect one (1) of their number to be chairperson of the meeting
+- **21a.ii.** The chairperson shall maintain order and conduct the meeting in a proper and orderly manner
+- **21a.iii.** Every question, matter or resolution shall be decided by a majority of votes of the members present
+  - **21a.iii.1.** every such resolution must be minuted.
+- **21a.iv.** No votes may be exercised by proxy.
+- **21a.v.** Where a member is attending online, the chairperson shall record their vote if the ballot is not secret.
 
 ## Part Twenty-Two: Alteration of rules
 
@@ -343,12 +343,12 @@ Unless otherwise provided by these rules, at every general meeting:
 **22b.** However, any amendment or addition is valid only if it is registered by the Management Committee and approved by the clubs and societies committee.
 
 **22c.** On special resolutions:
-- **(a)** A special resolution is passed at a meeting if:
-  - **(i)** Of the entitled members of the Squad who vote, not less than three quarters (3/4) vote in favour of the resolution; and
-  - **(ii)** Any additional requirement or requirements of the constitution relating to the passing of a special resolution have been met.
-- **(b)** A resolution is not to be considered to have been passed as a special resolution under sub-section 20c.a unless not less than seven (7) days’ notice has been given in accordance with the rules to all the entitled members of the Squad specifying the intention to propose the resolution as a special resolution.
-- **(c)** At any meeting at which a special resolution is submitted, a declaration by the chairperson that the resolution has been carried is conclusive proof of the fact unless a poll is demanded.
-- **(d)** In this section “entitled member” means a member of the Squad who is entitled under the rules of the association to vote.
+- **22c.i.** A special resolution is passed at a meeting if:
+  - **22c.i.1.** Of the entitled members of the Squad who vote, not less than three quarters (3/4) vote in favour of the resolution; and
+  - **22c.i.2.** Any additional requirement or requirements of the constitution relating to the passing of a special resolution have been met.
+- **22c.ii.** A resolution is not to be considered to have been passed as a special resolution under sub-section 20c.a unless not less than seven (7) days’ notice has been given in accordance with the rules to all the entitled members of the Squad specifying the intention to propose the resolution as a special resolution.
+- **22c.iii.** At any meeting at which a special resolution is submitted, a declaration by the chairperson that the resolution has been carried is conclusive proof of the fact unless a poll is demanded.
+- **22c.iv.** In this section “entitled member” means a member of the Squad who is entitled under the rules of the association to vote.
 
 **22d.** Once a special resolution has passed at a meeting in accordance with these rules, the date at section 31d, Documents, within these rules shall be updated to match the date that the special resolution passed. Such that the date will indicate when changes were last made to these rules. Such an update may be done without special resolution.
 
@@ -367,8 +367,8 @@ Unless otherwise provided by these rules, at every general meeting:
 **23e.** All expenditure shall be approved or ratified at a Management Committee meeting.
 
 **23f.** As soon as practicable after the end of each financial year the treasurer shall cause to be prepared a statement containing the particulars of:
-- **(a)** the income and expenditure for the financial year just ended
-- **(b)** the assets and liabilities at the close of that year.
+- **23f.i.** the income and expenditure for the financial year just ended
+- **23f.ii.** the assets and liabilities at the close of that year.
 
 **23g.** The accounts of the Squad must be audited within three (3) months prior to the annual general meeting.
 
@@ -382,11 +382,11 @@ Unless otherwise provided by these rules, at every general meeting:
 
 ## Part Twenty-Five: Relationship with UQ Cyber
 
-The Squad acknowledges a special relationship with UQ Cyber.
+**25a.** The Squad acknowledges a special relationship with UQ Cyber.
 
-The Management Committee may enter into agreements with the School to receive funding.
+**25b.** The Management Committee may enter into agreements with the School to receive funding.
 
-The Management Committee may invite any staff member of UQ Cyber to their meetings.
+**25c.** The Management Committee may invite any staff member of UQ Cyber to their meetings.
 
 ## Part Twenty-Six: Transition of Management Committee
 
@@ -411,8 +411,8 @@ The Management Committee may invite any staff member of UQ Cyber to their meetin
 **28a.** The Management Committee shall create and maintain a Competitions policy that will appoint members to competition teams fairly.
 
 **28b.** The Management Committee shall have the power to support members’ participation in competitions that meet the objectives of the Squad. Such powers include but are not limited to:
-- **a)** Disbursing or reimbursing funds for travel to competitions
-- **b)** Disbursing or reimbursing funds for registration in competitions
+- **28b.i.** Disbursing or reimbursing funds for travel to competitions
+- **28b.ii.** Disbursing or reimbursing funds for registration in competitions
 
 **28c.** The Competitions policy shall govern the instruments for those prize agreements referred to in Part 2c of this Constitution.
 
@@ -423,8 +423,8 @@ The Management Committee may invite any staff member of UQ Cyber to their meetin
 **29b.** The purpose of this policy is to ensure that the Squad maintains an inclusive environment for members of all backgrounds and identities.
 
 **29c.** Alterations to the equity and diversity policy must be agreed upon by both Equity Officers, or via a vote at any General Meeting of the Squad and minuted as follows:
-- **a)** Within the minutes of the next Meeting of the Management Committee
-- **b)** In the minutes of the General Meeting in which the vote took place
+- **29c.i.** Within the minutes of the next Meeting of the Management Committee
+- **29c.ii.** In the minutes of the General Meeting in which the vote took place
 
 ## Part Thirty: Life Membership
 
