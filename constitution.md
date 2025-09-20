@@ -145,7 +145,7 @@ Version 1.10
 
 **9c.** A casual vacancy in the role of Equity Officer must be filled by a vote of the general membership as soon as is permitted by the Constitution.
 
-**9d.** Where a casual vacancy exists as defined by b) above, a person validly elected does not vacate their position.
+**9d.** Where a casual vacancy exists as defined by 9b above, a person validly elected does not vacate their position.
 - **9d.i.** For the avoidance of doubt, if the Annual General Meeting concludes with only one man elected as Equity Officer, then that man continues as Equity Officer, and nominations must be sought for an additional Equity Officer.
 
 **9e.** The Equity Officers shall report to the Management Committee on issues affecting equity, diversity, and inclusion.
@@ -191,7 +191,7 @@ Version 1.10
 - **10d.ii.** Cease being a member of the Squad,
 - **10d.iii.** Fail to, within reason, fulfil the obligations of their position and/or the Constitution or the Code of Ethics and Conduct.
 
-**10e.** In the case of point 10d.3 the matter will be determined at a general meeting as per 10b
+**10e.** In the case of point 10d.iii the matter will be determined at a general meeting as per 10b
 
 **10f.** The Secretary may resign in the same manner as any other member of the Management Committee, with the exception that written notice shall instead be given to the President.
 
@@ -308,7 +308,7 @@ Version 1.10
 - **19a.i.** Being directed to do so by the Management Committee.
 - **19a.ii.** Being given a requisition in writing signed by not less than one-third (1/3) of the members presently on the Management Committee or from ordinary members not less than the number of members required for a quorum at a general meeting as per 20a.
 
-**19b.** A requisition mentioned in subsection 19a.2 shall clearly state the reasons why such special general meeting is being convened and the nature of the business to be transacted thereat.
+**19b.** A requisition mentioned in subsection 19a.ii shall clearly state the reasons why such special general meeting is being convened and the nature of the business to be transacted thereat.
 
 ## Part Twenty: Quorum at a General Meeting
 
@@ -318,7 +318,7 @@ Version 1.10
 
 **20c.** No business shall be transacted at any general meeting unless a quorum of members is present at the time when the meeting proceeds to business.
 
-**20d.** If within half an hour from the time appointed for the commencement of a general meeting a quorum is not present, the meeting, if convened upon the requisition of members as outlined in section 19a.2, shall lapse.
+**20d.** If within half an hour from the time appointed for the commencement of a general meeting a quorum is not present, the meeting, if convened upon the requisition of members as outlined in section 19a.ii, shall lapse.
 
 **20e.** If within half an hour from the time appointed for the commencement of a general meeting a quorum is not present, the meeting shall stand adjourned to the same day in the next week at the same time and place, or to such other day and at such other time and place as the Management Committee may determine, and if at the adjourned meeting a quorum is not present within half an hour from the time appointed for the meeting, the members present shall be a quorum.
 
@@ -346,7 +346,7 @@ Version 1.10
 - **22c.i.** A special resolution is passed at a meeting if:
   - **22c.i.1.** Of the entitled members of the Squad who vote, not less than three quarters (3/4) vote in favour of the resolution; and
   - **22c.i.2.** Any additional requirement or requirements of the constitution relating to the passing of a special resolution have been met.
-- **22c.ii.** A resolution is not to be considered to have been passed as a special resolution under sub-section 20c.a unless not less than seven (7) days’ notice has been given in accordance with the rules to all the entitled members of the Squad specifying the intention to propose the resolution as a special resolution.
+- **22c.ii.** A resolution is not to be considered to have been passed as a special resolution under sub-section 22c.i unless not less than seven (7) days’ notice has been given in accordance with the rules to all the entitled members of the Squad specifying the intention to propose the resolution as a special resolution.
 - **22c.iii.** At any meeting at which a special resolution is submitted, a declaration by the chairperson that the resolution has been carried is conclusive proof of the fact unless a poll is demanded.
 - **22c.iv.** In this section “entitled member” means a member of the Squad who is entitled under the rules of the association to vote.
 
