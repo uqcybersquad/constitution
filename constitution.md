@@ -254,7 +254,7 @@ Version 1.10
 
 **14e.** Management Committee may appoint the chairperson of such subcommittees or leave the election of the chairperson to the membership of the subcommittee.
 
-**14f.** If no such chairperson is elected, or if at any meeting the chairperson is not present within ten (15) minutes after the time appointed for holding the meeting, the members present may choose one (1) of their numbers to be chairperson of the meeting.
+**14f.** If no such chairperson is elected, or if at any meeting the chairperson is not present within ten (15) minutes after the time appointed for holding the meeting, the subcommittee members present may choose one (1) of their number to be chairperson of the meeting.
 
 **14g.** A subcommittee may meet and adjourn, as deemed necessary.
 
