@@ -164,7 +164,7 @@ Version 1.10
 - **9h.i.** Making competitors aware that they do not have to share a team with people they don’t feel comfortable sharing a team with
 - **9h.ii.** Taking reports from competitors or members of the Management Committee or any subcommittee about any other persons that they don’t feel comfortable sharing a team with
 - **9h.iii.** Ensuring that no competitor is placed on a team with someone they don’t feel comfortable sharing a team with.
-- **9h.iv.** Whenever reasonably possible, Whenever reasonably possible, ensuring that the top-performing team nominated to enter any competition includes at least one woman
+- **9h.iv.** Whenever reasonably possible, ensuring that the top-performing team nominated to enter any competition includes at least one woman
   - **9h.iv.1.** ‘Reasonably’ in this case refers to the nature of the competition. This is  solely at the discretion of the Equity Officers.
 - **9h.v.** Ensuring that people of diverse backgrounds and genders and genders are given access and opportunities to training to support their appointment to top-performing teams.
 
