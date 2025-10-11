@@ -169,7 +169,7 @@ Version 1.10
 - **9h.v.** Ensuring that people of diverse backgrounds and genders and genders are given access and opportunities to training to support their appointment to top-performing teams.
 
 **9i.** Equitable conduct on Committees
-- **9i.i.** Committee members are required to uphold the values of equity, diversity diversity, and inclusion.
+- **9i.i.** Committee members are required to uphold the values of equity, diversity, and inclusion.
 - **9i.ii.** A decision by any committee is invalid if it creates or is likely to create inequitable conditions for marginalised persons in the Squad.
 - **9i.iii.** Where a member of any Squad committee acts in a racist, sexist or otherwise derogatory manner, or acts in any way that similarly lowers the reputation of the Squad, the Equity officer may exclude that person from the relevant committee.
 - **9i.iv.** If a committee member affected by the previous clause is the President, Secretary, or Treasurer, the Management Committee must meet to decide the tenability of the member's elected position.
