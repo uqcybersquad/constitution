@@ -229,15 +229,13 @@ Version 1.10
 
 **13h.** A member of the Management Committee shall not vote in respect of any matter in which the member is financially interested, or any matter arising thereout, and if the member does so vote the member’s vote shall not be counted.
 
-**13i.** Not less than three (3) days’ notice shall be given by the Secretary to members of the Management Committee of any special meeting of the Management Committee.
+**13i.** Not less than three (3) days’ notice shall be given by the Secretary to members of the Management Committee of any special meeting of the Management Committee. Such notice shall clearly state the nature of the business to be discussed thereat.
 
-**13j.** Such notice shall clearly state the nature of the business to be discussed thereat.
+**13j.** The President shall preside as chairperson at every meeting of the Management Committee, or if there is no President, or if at any meeting the President is not present within fifteen (15) minutes after the time appointed for holding the meeting or is unwilling to act, the Secretary shall be chair or if the Secretary is not present at the meeting or is unwilling to act, the members may choose one (1) of their number to be chairperson of the meeting.
 
-**13k.** The President shall preside as chairperson at every meeting of the Management Committee, or if there is no President, or if at any meeting the President is not present within fifteen (15) minutes after the time appointed for holding the meeting or is unwilling to act, the Secretary shall be chair or if the Secretary is not present at the meeting or is unwilling to act, the members may choose one (1) of their number to be chairperson of the meeting.
+**13k.** If within half an hour from the time appointed for the commencement of the Management Committee meeting a quorum is not present, the meeting, if convened upon the requisition of members of the Management Committee, shall lapse.
 
-**13l.** If within half an hour from the time appointed for the commencement of the Management Committee meeting a quorum is not present, the meeting, if convened upon the requisition of members of the Management Committee, shall lapse.
-
-**13m.** In any other case it shall stand adjourned to the same day in the next week at the same time and place or to such other day and at such other time as the Management Committee may determine, and if at the adjourned meeting a quorum is not present within half an hour from the time appointed for the meeting, the meeting shall lapse.
+**13l.** In any other case it shall stand adjourned to the same day in the next week at the same time and place or to such other day and at such other time as the Management Committee may determine, and if at the adjourned meeting a quorum is not present within half an hour from the time appointed for the meeting, the meeting shall lapse.
 
 ## Part Fourteen: Delegation of powers of Management Committee
 
