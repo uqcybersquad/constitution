@@ -223,7 +223,7 @@ Version 1.10
 
 **13e.** For a Management Committee meeting to be quorate, a simple majority of half (50%), plus one (1), of the Committee members must be present, as of the size of the Management Committee at the close of the last General Meeting.
 
-**13f.** Subject as previously provided in this section, the Management Committee may meet together and regulate its proceedings as it thinks fit.
+**13f.** Subject to the provisions of this section, the Management Committee may meet together and regulate its proceedings as it thinks fit.
 
 **13g.** However, questions arising at any meeting of the Management Committee shall be decided by a majority of votes and, in the case of equality of votes, the question shall be deemed to be decided in the negative.
 
