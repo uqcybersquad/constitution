@@ -1,6 +1,6 @@
 # Constitution of the University of Queensland Cyber Squad
 
-Version 1.10
+Version 1.11
 
 ## Part One: Preliminaries
 
@@ -446,4 +446,4 @@ Version 1.10
 
 **31c.** The constitution is enacted on the 13th day of January in the year 2022.
 
-**31d.** This constitution was last amended on the 16th of October in the year 2024.
+**31d.** This constitution was last amended on the 8th of October in the year 2025.
