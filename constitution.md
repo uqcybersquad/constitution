@@ -225,7 +225,7 @@ Version 1.10
 
 **13f.** Subject to the provisions of this section, the Management Committee may meet together and regulate its proceedings as it thinks fit.
 
-**13g.** However, questions arising at any meeting of the Management Committee shall be decided by a majority of votes and, in the case of equality of votes, the question shall be deemed to be decided in the negative.
+**13g.** Questions arising at any meeting of the Management Committee shall be decided by a majority of votes and, in the case of equality of votes, the question shall be deemed to be decided in the negative.
 
 **13h.** A member of the Management Committee shall not vote in respect of any matter in which the member is financially interested, or any matter arising thereout, and if the member does so vote the member’s vote shall not be counted.
 
