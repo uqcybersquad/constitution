@@ -384,7 +384,7 @@ Version 1.10
 
 **25b.** The Management Committee may enter into agreements with the School to receive funding.
 
-**25c.** The Management Committee may invite any staff member of UQ Cyber to their meetings.
+**25c.** The Management Committee may invite any staff member of UQ Cyber to Management Committee meetings. Staff members invited in this way shall not be able to vote under section 13g unless they are also a member of the Management Committee.
 
 ## Part Twenty-Six: Transition of Management Committee
 
