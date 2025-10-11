@@ -26,6 +26,8 @@ Version 1.10
 
 **2c.** For the avoidance of doubt, prizes won by members representing the Squad in competitions are not assets of the Squad, and individual members have the absolute right to any prize they win, unless they make a written agreement with the Squad to the contrary.
 
+**2d.** The Squad shall not adopt aims or objectives, which would bring it under the jurisdiction of the University of Queensland Sports Association (UQ Sport).
+
 ## Part Three: Membership
 
 **3a.** Membership of the Squad is open to:
@@ -38,8 +40,6 @@ Version 1.10
 **3c.** All members are bound by the Squad’s Code of Ethics and Conduct (‘the Code’), which will be reviewed and updated at least every two years. A breach of the Code will result in the immediate termination of membership.
 
 **3d.** No fewer than seventy percent (70%) of the Squad’s financial members must be University of Queensland students.
-
-**3e.** The Squad shall not adopt aims or objectives, which would bring it under the jurisdiction of the University of Queensland Sports Association (UQ Sport).
 
 ## Part Four – Membership Fees
 
