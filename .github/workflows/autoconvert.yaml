@@ -1,0 +1,19 @@
+name: Convert to PDF
+
+on:
+  push:
+    tags:
+      - v*
+
+jobs:
+  convert_via_pandoc:
+    runs-on: ubuntu-24.04
+    steps:
+      - uses: actions/checkout@v7
+      - uses: docker://pandoc/latex:3.7
+        with:
+          args: --standalone --defaults=defaults.yaml --output=constitution.pdf constitution.md
+      - uses: actions/upload-artifact@v7
+        with:
+          name: constitution.pdf
+          path: constitution.pdf
