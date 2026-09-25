@@ -146,7 +146,7 @@ Version 1.11
 
 **9a.** The Squad shall hold elections for two Equity Officers at the Annual General Meeting.
 
-- **9a.i.** At least one Equity Officer must identify as either female or non-binary.
+- **9a.i.** At least one Equity Officer must identify as female or gender diverse.
 
 **9b.** A casual vacancy shall exist in the role of Equity Officer if at any point:
 
