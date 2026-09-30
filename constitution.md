@@ -332,7 +332,7 @@ Version 1.11
 
 ## Part Twenty: Quorum at a General Meeting
 
-**20a.** At any general meeting the number of members required to constitute a quorum shall be Double (two (2) times) the size of the Management Committee plus one (1) or 15% of the Squad’s regular membership plus one (1), whichever is the lesser. This is based on the membership list at the time that notice of the meeting is given.
+**20a.** At any general meeting the number of members required to constitute a quorum shall be Double (two (2) times) the size of the Management Committee plus one (1) or 15% of the Squad’s financial members plus one (1), whichever is the lesser. This is based on the membership list at the time that notice of the meeting is given.
 
 **20b.** A member who attends a general meeting online shall count towards quorum.
 
