@@ -211,11 +211,11 @@ Version 1.11
 
 **10g.** For the avoidance of doubt, a member of the Management Committee or an Equity Officer who ceases to be a member of the Executive Committee shall also have their Management Committee or Equity Officer position terminated.
 
-## Part Eleven: Vacancies on Executive Committee
+## Part Eleven: Vacancies on Management Committee
 
-**11a.** The Executive Committee shall have power at any time to appoint any member of the Squad to fill any casual vacancy on the Executive Committee until the next annual general meeting.
+**11a.** The Executive Committee shall have power at any time to appoint any member of the Squad to fill any casual vacancy on the Management Committee until the next annual general meeting.
 
-**11b.** The continuing members of the Executive Committee may act notwithstanding any casual vacancy in the Executive Committee, however if their number is reduced below the number fixed as is necessary for quorum for the Executive Committee, the continuing member or members may act for the purpose of increasing the number of members of the Executive Committee to that number required to achieve quorum or by summoning a general meeting of the association, but for no other purpose.
+**11b.** The continuing members of the Executive Committee may act notwithstanding any casual vacancy in the Management Committee, however if their number is reduced below the number fixed as is necessary for quorum for the Executive Committee, the continuing member or members may act for the purpose of increasing the number of members of the Management Committee to that number required to achieve quorum or by summoning a general meeting of the association, but for no other purpose.
 
 ## Part Twelve: Functions of the Executive Committee
 
