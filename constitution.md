@@ -350,10 +350,10 @@ Version 1.11
 
 **21a.** Unless otherwise provided by these rules, at every general meeting:
 
-- **21a.i.** The President shall preside as chairperson or if there is no President, or if the President is not present within fifteen (15) minutes after the time appointed for the holding of the meeting or is unwilling to act, the Secretary shall be the chairperson or if the Secretary is not present or is unwilling to act then the members present shall elect one (1) of their number to be chairperson of the meeting
-- **21a.ii.** The chairperson shall maintain order and conduct the meeting in a proper and orderly manner
-- **21a.iii.** Every question, matter or resolution shall be decided by a majority of votes of the members present
-  - **21a.iii.1.** every such resolution must be minuted.
+- **21a.i.** The President shall preside as chairperson. If there is no President, or if the President is not present within fifteen (15) minutes after the time appointed for the holding of the meeting or is unwilling to act, the Secretary shall be the chairperson. If the Secretary is not present or is unwilling to act, then the members present shall elect one (1) of their number to be chairperson of the meeting.
+- **21a.ii.** The chairperson shall maintain order and conduct the meeting in a proper and orderly manner.
+- **21a.iii.** Every question, matter or resolution shall be decided by a majority of votes of the members present.
+  - **21a.iii.1.** Every such resolution must be minuted.
 - **21a.iv.** No votes may be exercised by proxy.
 - **21a.v.** Where a member is attending online, the chairperson shall record their vote if the ballot is not secret.
 
