@@ -313,13 +313,10 @@ Version 1.11
 
 - **18a.i.** The receiving of the statement of income and expenditure, assets and liabilities for the last financial year prepared by the Treasurer.
 - **18a.ii.** The receiving of reports from the President and Secretary.
-- **18a.iii.** The receiving of the auditor’s report on the financial affairs of the Squad for the last financial year.
-- **18a.iv.** The presenting of the audited statement to the meeting for adoption.
-- **18a.v.** The election of members of the Management Committee.
-- **18a.vi.** The appointment of an auditor who shall be the nominee of the Union for club/societies or an independent auditor or who must be a member of the Institute of Chartered Accountants in Australia or the Australian Association of Accountants or a successor to either of these bodies.
-- **18a.vii.** The appointment of life members of the Squad.
-- **18a.viii.** The minutes of the annual general meeting shall be submitted to the clubs and Societies Administration Officer within seven (7) days of the annual general meeting.
-- **18a.ix.** Where there is a tied vote, the issue will be deemed to have been resolved in the negative.
+- **18a.iii.** The election of members of the Management Committee.
+- **18a.iv.** The appointment of life members of the Squad.
+
+**18b.** The minutes of the annual general meeting shall be submitted to the Clubs and Societies Committee within the timeframe required by the Clubs and Societies Committee.
 
 ## Part Nineteen: Special General Meeting
 
@@ -354,8 +351,9 @@ Version 1.11
 - **21a.ii.** The chairperson shall maintain order and conduct the meeting in a proper and orderly manner
 - **21a.iii.** Every question, matter or resolution shall be decided by a majority of votes of the members present
   - **21a.iii.1.** every such resolution must be minuted.
-- **21a.iv.** No votes may be exercised by proxy.
-- **21a.v.** Where a member is attending online, the chairperson shall record their vote if the ballot is not secret.
+- **21a.iv.** Where there is a tied vote, the issue will be deemed to have been resolved in the negative.
+- **21a.v.** No votes may be exercised by proxy.
+- **21a.vi.** Where a member is attending online, the chairperson shall record their vote if the ballot is not secret.
 
 ## Part Twenty-Two: Alteration of rules
 
@@ -393,11 +391,9 @@ Version 1.11
 - **23f.i.** the income and expenditure for the financial year just ended
 - **23f.ii.** the assets and liabilities at the close of that year.
 
-**23g.** The accounts of the Squad must be audited within three (3) months prior to the annual general meeting.
+**23g.** The income and property of the Squad must be used solely in promoting the Squad’s objectives and exercising the Squad’s powers.
 
-**23h.** The income and property of the Squad must be used solely in promoting the Squad’s objectives and exercising the Squad’s powers.
-
-**23i.** All amounts shall be paid by bank transfer approved by any two (2) of the executive committee, and/or the Clubs and Societies Administration Officer.
+**23h.** All amounts shall be paid by bank transfer approved by any two (2) of the executive committee, and/or the Clubs and Societies Administration Officer.
 
 ## Part Twenty-Four: Dissolution clause
 
