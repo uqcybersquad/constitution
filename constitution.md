@@ -144,12 +144,12 @@ Version 1.11
 
 **9a.** The Squad shall hold elections for two Equity Officers at the Annual General Meeting.
 
-- **9a.i.** At least one Equity Officer must identify as either female or non-binary.
+- **9a.i.** At least one Equity Officer must identify as female, non-binary or gender diverse.
 
 **9b.** A casual vacancy shall exist in the role of Equity Officer if at any point:
 
 - **9b.i.** There are no Equity Officers
-- **9b.ii.** There is no Equity Officer who identifies as a woman or non-binary.
+- **9b.ii.** There is no Equity Officer who identifies as female, non-binary or gender diverse.
 
 **9c.** A casual vacancy in the role of Equity Officer must be filled by a vote of the general membership as soon as is permitted by the Constitution.
 
@@ -175,7 +175,7 @@ Version 1.11
 - **9h.i.** Making competitors aware that they do not have to share a team with people they don’t feel comfortable sharing a team with
 - **9h.ii.** Taking reports from competitors or members of the Executive Committee or any subcommittee about any other persons that they don’t feel comfortable sharing a team with
 - **9h.iii.** Ensuring that no competitor is placed on a team with someone they don’t feel comfortable sharing a team with.
-- **9h.iv.** Whenever reasonably possible, ensuring that the top-performing team nominated to enter any competition includes at least one woman
+- **9h.iv.** Whenever reasonably possible, ensuring that the top-performing team nominated to enter any competition includes at least one person who is female, non-binary or gender diverse
   - **9h.iv.1.** ‘Reasonably’ in this case refers to the nature of the competition. This is  solely at the discretion of the Equity Officers.
 - **9h.v.** Ensuring that people of diverse backgrounds and genders and genders are given access and opportunities to training to support their appointment to top-performing teams.
 
@@ -378,7 +378,7 @@ Version 1.11
 
 ## Part Twenty-Three: Funds and accounts
 
-**23a.** The funds of the Squad must be kept in the name of the Squad in the University branch of the Commonwealth Bank. The Squad shall operate one (1) account only. Exception to this can only occur with the specific approval of the Clubs and Societies committee.
+**23a.** The funds of the Squad must be kept in the name of the Squad at the nearest Commonwealth Bank branch. The Squad shall operate one (1) account only. Exceptions to this may only occur with the specific approval of the Clubs and Societies committee.
 
 **23b.** Proper books and accounts shall be kept and maintained either in written or printed form in the English language correctly showing the financial affairs of the Squad and the particulars usually shown in books of a like nature.
 
