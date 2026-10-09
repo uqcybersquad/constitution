@@ -54,9 +54,9 @@ Version 1.11
 
 **4d**  The membership fees shall be payable upon joining the Squad.
 
-**4e.** The refunding of memberships is at the discretion of the Management Committee.
+**4e.** The refunding of memberships is at the discretion of the Executive Committee.
 
-**4f** The Management Committee have the right to change membership fees according to costs associated with payment methods (e.g. raising membership fee due to a tax on an electronic payment method)
+**4f** The Executive Committee have the right to change membership fees according to costs associated with payment methods (e.g. raising membership fee due to a tax on an electronic payment method)
 
 ## Part Five: Termination of membership
 
@@ -64,33 +64,33 @@ Version 1.11
 
 **5b.** Such resignation shall take effect at the time such notice is received by the Secretary unless a later date is specified in the notice when it shall take effect on that later date.
 
-**5c.** The Management Committee shall consider whether the member’s membership shall be terminated if a member –
+**5c.** The Executive Committee shall consider whether the member’s membership shall be terminated if a member –
 
 - **5c.i.** fails to comply with any of the provisions of these rules;
 - **5c.ii.** has membership fees in arrears;
 - **5c.iii.** conducts themselves in a manner considered to be injurious or prejudicial to the character or interests of the Squad.
 - **5c.iv.** breaches the Squad’s Code of Ethics and Conduct.
 
-**5d.** The member concerned shall be given a full and fair opportunity of presenting the member’s case and if the Management Committee resolves to terminate the membership it shall instruct the Secretary to advise the member in writing accordingly.
+**5d.** The member concerned shall be given a full and fair opportunity of presenting the member’s case and if the Executive Committee resolves to terminate the membership it shall instruct the Secretary to advise the member in writing accordingly.
 
 **5e.** A member whose membership is terminated may appeal to the Union’s Clubs and Societies Committee.
 
 ## Part Six: Register of members
 
-**6a.** The Management Committee must keep a register of the Squad’s members, including each member’s:
+**6a.** The Executive Committee must keep a register of the Squad’s members, including each member’s:
 
 - **6a.i.** Name;
 - **6a.ii.** Student number (if applicable);
 - **6a.iii.** Email address; and
 - **6a.iv.** Date of membership.
 
-**6b.** Particulars shall also be entered into the register of resignations, terminations and reinstatement of membership and any further particulars as the Management Committee or the members at any general meeting may require from time to time.
+**6b.** Particulars shall also be entered into the register of resignations, terminations and reinstatement of membership and any further particulars as the Executive Committee or the members at any general meeting may require from time to time.
 
 **6c.** The register shall be open for inspection at all reasonable times by any member who previously applies to the Secretary for such inspection. 
 
 **6d.** A copy of the register shall be provided for the Clubs and Societies Department each semester.
 
-## Part Seven: Membership of Management Committee
+## Part Seven: The Management Committee
 
 **7a.** The Management Committee of the Squad shall consist of the
 
@@ -121,26 +121,24 @@ Version 1.11
 - **7f.ix.** A member who attends a general meeting online shall be eligible for nomination to the Management Committee
 - **7f.x.** Any informality or irregularity in the elections must be brought to the attention of the Clubs and Societies Administration Officer within fourteen (14) days of the elections
 
-## Part Eight: The General Administration Committee
+## Part Eight: The Executive Committee
 
-**8a.** The Squad may also elect an additional General Administration Committee at any General Meeting, Members of this committee may consist of:
+**8a.** The Executive Committee of the Squad shall consist of the
 
-- **8a.i.** Infrastructure Officers
-- **8a.ii.** Any other members so appointed to the General Administration Committee at the General Meeting
+- **8a.i.** Members of the Management Committee, as described in 7a.
+- **8a.ii.** Infrastructure Officers
+- **8a.iii.** Equity Officers, as described in Part 9
+- **8a.iv.** Any other members so appointed to the Executive Committee at the General Meeting
 
-**8b.** All members of the General Administration Committee must also be members of the Squad.
+**8b.** All members of the Executive Committee must also be members of the Squad.
 
 **8c.** Infrastructure Officers must be students at the University of Queensland
 
-**8d.** As in 7e, at the annual general meeting of the Squad, all the members of the General Administration Committee for the time being shall retire from office but shall be eligible upon nomination for re-election.
+**8d.** Membership of the Executive Committee may not be limited except by provisions 8b and 8c.
 
-**8e.** Such a General Administration Committee may attend and vote at Meetings of the Management Committee as specified under Part Thirteen, but do not constitute as a part of quorum at such meetings.
+**8e.** As in 7e, at the annual general meeting of the Squad, all the members of the Executive Committee for the time being shall retire from office but shall be eligible upon nomination for re-election.
 
-**8f.** General Administration Committee members may resign or be removed from office under the same rules as for Management Committee members under Part Ten.
-
-**8g.** The General Administration Committee shall share in the powers specified under 12a for the Management Committee
-
-**8h.** The election of members of the General Administration Committee shall take place in the same manner as specified under 7f for the Management Committee:
+**8f.** The election of members of the Executive Committee shall take place in the same manner as specified under 7f for the Management Committee.
 
 ## Part Nine: Equity Officers
 
@@ -159,7 +157,7 @@ Version 1.11
 
 - **9d.i.** For the avoidance of doubt, if the Annual General Meeting concludes with only one man elected as Equity Officer, then that man continues as Equity Officer, and nominations must be sought for an additional Equity Officer.
 
-**9e.** The Equity Officers shall report to the Management Committee on issues affecting equity, diversity, and inclusion.
+**9e.** The Equity Officers shall report to the Executive Committee on issues affecting equity, diversity, and inclusion.
 
 **9f.** The Equity Officers shall create, lead, advocate for and advertise for more diversity on CTF teams, and/or more diversity-focused CTF teams within the Squad and in the CTF community at large.
 
@@ -169,39 +167,39 @@ Version 1.11
 - **9g.ii.** Ensuring that all members know how to contact this member during events
 - **9g.iii.** Excluding from events any person who makes a member unsafe or feel unsafe.
   - **9g.iii.1.** In the case of a member this shall be temporary, pending management committee decision under Section 5.
-- **9g.iv.** Reporting any such exclusions to the UQ Union and the Management Committee
+- **9g.iv.** Reporting any such exclusions to the UQ Union and the Executive Committee
 - **9g.v.** Advocating for and supporting victims during and after any incident that occurs
 
 **9h.** The Equity Officers shall be responsible for making competition teams inclusive by:
 
 - **9h.i.** Making competitors aware that they do not have to share a team with people they don’t feel comfortable sharing a team with
-- **9h.ii.** Taking reports from competitors or members of the Management Committee or any subcommittee about any other persons that they don’t feel comfortable sharing a team with
+- **9h.ii.** Taking reports from competitors or members of the Executive Committee or any subcommittee about any other persons that they don’t feel comfortable sharing a team with
 - **9h.iii.** Ensuring that no competitor is placed on a team with someone they don’t feel comfortable sharing a team with.
 - **9h.iv.** Whenever reasonably possible, ensuring that the top-performing team nominated to enter any competition includes at least one person who is female, non-binary or gender diverse
   - **9h.iv.1.** ‘Reasonably’ in this case refers to the nature of the competition. This is  solely at the discretion of the Equity Officers.
-- **9h.v.** Ensuring that people of diverse backgrounds and genders are given access and opportunities to training to support their appointment to top-performing teams.
+- **9h.v.** Ensuring that people of diverse backgrounds and genders and genders are given access and opportunities to training to support their appointment to top-performing teams.
 
 **9i.** Equitable conduct on Committees
 
 - **9i.i.** Committee members are required to uphold the values of equity, diversity, and inclusion.
 - **9i.ii.** A decision by any committee is invalid if it creates or is likely to create inequitable conditions for marginalised persons in the Squad.
 - **9i.iii.** Where a member of any Squad committee acts in a racist, sexist or otherwise derogatory manner, or acts in any way that similarly lowers the reputation of the Squad, the Equity officer may exclude that person from the relevant committee.
-- **9i.iv.** If a committee member affected by the previous clause is the President, Secretary, or Treasurer, the Management Committee must meet to decide the tenability of the member's elected position.
-- **9i.v.** Any such decision by the Management Committee may be appealed to the UQU Clubs and Societies Committee.
+- **9i.iv.** If a committee member affected by the previous clause is the President, Secretary, or Treasurer, the Executive Committee must meet to decide the tenability of the member's elected position.
+- **9i.v.** Any such decision by the Executive Committee may be appealed to the UQU Clubs and Societies Committee.
 
 **9j.** Definitions:
 
 - **9j.i.** The “top-performing team” is any team that is named such that it identifies them as the Squad’s best players, including words like “Team A” or similar
 
-## Part Ten: Resignation or removal from office of member of Management Committee
+## Part Ten: Resignation or removal from office of member of Executive Committee
 
-**10a.** Any member of the Management Committee may resign from membership of the Management Committee at any time by giving notice in writing to the Secretary, but such resignations shall take effect at the time of such notice is received by the Secretary unless a later date is specified in the notice when it shall take effect on that later date
+**10a.** Any member of the Executive Committee may resign from membership of the Executive Committee at any time by giving notice in writing to the Secretary, but such resignations shall take effect at the time of such notice is received by the Secretary unless a later date is specified in the notice when it shall take effect on that later date
 
-**10b.** Any member of the Management Committee may be removed from office at a general meeting of the Squad where that member shall be given the opportunity to fully present the member’s case. The question of removal shall be determined by a vote of a two-thirds majority of the members present at such a general meeting and must be endorsed by the Clubs and Societies committee.
+**10b.** Any member of the Executive Committee may be removed from office at a general meeting of the Squad where that member shall be given the opportunity to fully present the member’s case. The question of removal shall be determined by a vote of a two-thirds majority of the members present at such a general meeting and must be endorsed by the Clubs and Societies committee.
 
 **10c.** There is no right of appeal against a member’s removal from the office under this section.
 
-**10d.** A member of the Management Committee shall have their position terminated if they:
+**10d.** A member of the Executive Committee shall have their position terminated if they:
 
 - **10d.i.** Die,
 - **10d.ii.** Cease being a member of the Squad,
@@ -209,71 +207,73 @@ Version 1.11
 
 **10e.** In the case of point 10d.iii the matter will be determined at a general meeting as per 10b
 
-**10f.** The Secretary may resign in the same manner as any other member of the Management Committee, with the exception that written notice shall instead be given to the President.
+**10f.** The Secretary may resign in the same manner as any other member of the Executive Committee, with the exception that written notice shall instead be given to the President.
+
+**10g.** For the avoidance of doubt, a member of the Management Committee or an Equity Officer who ceases to be a member of the Executive Committee shall also have their Management Committee or Equity Officer position terminated.
 
 ## Part Eleven: Vacancies on Management Committee
 
-**11a.** The Management Committee shall have power at any time to appoint any member of the Squad to fill any casual vacancy on the Management Committee until the next annual general meeting.
+**11a.** The Executive Committee shall have power at any time to appoint any member of the Squad to fill any casual vacancy on the Management Committee until the next annual general meeting.
 
-**11b.** The continuing members of the Management Committee may act notwithstanding any casual vacancy in the Management Committee, however if their number is reduced below the number fixed as is necessary for quorum for the Management Committee, the continuing member or members may act for the purpose of increasing the number of members of the Management Committee to that number required to achieve quorum or by summoning a general meeting of the association, but for no other purpose.
+**11b.** The continuing members of the Executive Committee may act notwithstanding any casual vacancy in the Management Committee, however if their number is reduced below the number fixed as is necessary for quorum for the Executive Committee, the continuing member or members may act for the purpose of increasing the number of members of the Management Committee to that number required to achieve quorum or by summoning a general meeting of the association, but for no other purpose.
 
-## Part Twelve: Functions of the Management Committee
+## Part Twelve: Functions of the Executive Committee
 
-**12a.** Except as otherwise provided by these rules and subject to resolutions of the members of the Squad carried at any general meeting the Management Committee:
+**12a.** Except as otherwise provided by these rules and subject to resolutions of the members of the Squad carried at any general meeting the Executive Committee:
 
 - **12a.i.** Shall have the general control and management of the administration of the affairs and funds of the Squad;
 - **12a.ii.** Shall have authority to interpret the meaning of these rules and any matter relating to the Squad on which these rules are silent.
 
-**12b.** The Management Committee may exercise all the power of the Squad to raise or secure the payment of money as the members of the Society may think fit and secure the payment or performance of any debt, liability or other engagement incurred or to be entered into by the Squad in any way.
+**12b.** The Executive Committee may exercise all the power of the Squad to raise or secure the payment of money as the members of the Society may think fit and secure the payment or performance of any debt, liability or other engagement incurred or to be entered into by the Squad in any way.
 
-**12c.** The Management Committee will take full responsibility for all publications produced by the Squad, or made with the approval of the Squad.
+**12c.** The Executive Committee will take full responsibility for all publications produced by the Squad, or made with the approval of the Squad.
 
-## Part Thirteen: Meetings of Management Committee
+## Part Thirteen: Meetings of Executive Committee
 
-**13a.** The Management Committee shall meet at least once every two (2) calendar months to exercise its functions.
+**13a.** The Executive Committee shall meet at least once every two (2) calendar months to exercise its functions.
 
-**13b.** Meetings of the Management Committee shall be called by the Secretary with three (3) days’ notice.
+**13b.** Meetings of the Executive Committee shall be called by the Secretary with three (3) days’ notice.
 
-**13c.** The Secretary and/or their nominee for the meeting must keep an accurate record of resolution passed at all Management Committee meetings.
+**13c.** The Secretary and/or their nominee for the meeting must keep an accurate record of resolution passed at all Executive Committee meetings.
 
-**13d.** A special meeting of the Management Committee shall be convened by the Secretary on the requisition in the writing signed by not less than one third of the members of the Management Committee, which requisition clearly state the reasons why such special meeting is being convened and the nature of the business to be transacted thereat.
+**13d.** A special meeting of the Executive Committee shall be convened by the Secretary on the requisition in the writing signed by not less than one third of the members of the Executive Committee, which requisition clearly state the reasons why such special meeting is being convened and the nature of the business to be transacted thereat.
 
-**13e.** For a Management Committee meeting to be quorate, a simple majority of half (50%), plus one (1), of the Committee members must be present, as of the size of the Management Committee at the close of the last General Meeting.
+**13e.** For a Executive Committee meeting to be quorate, a simple majority of half (50%), plus one (1), of the _Management_ Committee members must be present, as of the size of the Management Committee at the close of the last General Meeting.
 
-**13f.** Subject to the provisions of this section, the Management Committee may meet together and regulate its proceedings as it thinks fit.
+**13f.** Subject to the provisions of this section, the Executive Committee may meet together and regulate its proceedings as it thinks fit.
 
-**13g.** Questions arising at any meeting of the Management Committee shall be decided by a majority of votes and, in the case of equality of votes, the question shall be deemed to be decided in the negative.
+**13g.** Questions arising at any meeting of the Executive Committee shall be decided by a majority of votes and, in the case of equality of votes, the question shall be deemed to be decided in the negative.
 
-**13h.** A member of the Management Committee shall not vote in respect of any matter in which the member is financially interested, or any matter arising thereout, and if the member does so vote the member’s vote shall not be counted.
+**13h.** A member of the Executive Committee shall not vote in respect of any matter in which the member is financially interested, or any matter arising thereout, and if the member does so vote the member’s vote shall not be counted.
 
-**13i.** Not less than three (3) days’ notice shall be given by the Secretary to members of the Management Committee of any special meeting of the Management Committee. Such notice shall clearly state the nature of the business to be discussed thereat.
+**13i.** Not less than three (3) days’ notice shall be given by the Secretary to members of the Executive Committee of any special meeting of the Executive Committee. Such notice shall clearly state the nature of the business to be discussed thereat.
 
-**13j.** The President shall preside as chairperson at every meeting of the Management Committee, or if there is no President, or if at any meeting the President is not present within fifteen (15) minutes after the time appointed for holding the meeting or is unwilling to act, the Secretary shall be chair or if the Secretary is not present at the meeting or is unwilling to act, the Management Committee members present may choose one (1) of their number to be chairperson of the meeting.
+**13j.** The President shall preside as chairperson at every meeting of the Executive Committee, or if there is no President, or if at any meeting the President is not present within fifteen (15) minutes after the time appointed for holding the meeting or is unwilling to act, the Secretary shall be chair or if the Secretary is not present at the meeting or is unwilling to act, the Executive Committee members present may choose one (1) of their number to be chairperson of the meeting.
 
-**13k.** If within half an hour from the time appointed for the commencement of the Management Committee meeting a quorum is not present, the meeting, if convened upon the requisition of members of the Management Committee, shall lapse.
+**13k.** If within half an hour from the time appointed for the commencement of the Executive Committee meeting a quorum is not present, the meeting, if convened upon the requisition of members of the Executive Committee, shall lapse.
 
-**13l.** In any other case it shall stand adjourned to the same day in the next week at the same time and place or to such other day and at such other time as the Management Committee may determine, and if at the adjourned meeting a quorum is not present within half an hour from the time appointed for the meeting, the meeting shall lapse.
+**13l.** In any other case it shall stand adjourned to the same day in the next week at the same time and place or to such other day and at such other time as the Executive Committee may determine, and if at the adjourned meeting a quorum is not present within half an hour from the time appointed for the meeting, the meeting shall lapse.
 
-## Part Fourteen: Delegation of powers of Management Committee
+## Part Fourteen: Delegation of powers of Executive Committee
 
-**14a.** The Management Committee may delegate its powers to or remove its powers from a subcommittee consisting of such members of the Squad as the Management Committee sees fit.
+**14a.** The Executive Committee may delegate its powers to or remove its powers from a subcommittee consisting of such members of the Squad as the Executive Committee sees fit.
 
-**14b.** Any subcommittee formed will exercise the powers in line with any regulations that may be imposed on it by the Management Committee.
+**14b.** Any subcommittee formed will exercise the powers in line with any regulations that may be imposed on it by the Executive Committee.
 
 **14c.** Such a subcommittee consists of at least 2 people:
 
-- **14c.i.** Members of the subcommittee are free to leave the subcommittee at any time, but should advise the Management Committee beforehand so that their responsibilities (if any) can be reassigned.
+- **14c.i.** Members of the subcommittee are free to leave the subcommittee at any time, but should advise the Executive Committee beforehand so that their responsibilities (if any) can be reassigned.
 - **14c.ii.** Members of the club may self-nominate for a position in the subcommittee
-- **14c.iii.** Subcommittee appointments are made by the Management Committee.
+- **14c.iii.** Subcommittee appointments are made by the Executive Committee.
 
-**14d.** Management Committee shall create terms of reference for subcommittees including:
+**14d.** Executive Committee shall create terms of reference for subcommittees including:
 
 - **14d.i.** The goals of the subcommittee
-- **14d.ii.** Any Management Committee powers that have been delegated to the subcommittee
+- **14d.ii.** Any Executive Committee powers that have been delegated to the subcommittee
 
-**14e.** Management Committee may appoint the chairperson of such subcommittees or leave the election of the chairperson to the membership of the subcommittee.
+**14e.** Executive Committee may appoint the chairperson of such subcommittees or leave the election of the chairperson to the membership of the subcommittee.
 
-**14f.** If no such chairperson is elected, or if at any meeting the chairperson is not present within ten (15) minutes after the time appointed for holding the meeting, the subcommittee members present may choose one (1) of their number to be chairperson of the meeting.
+**14f.** If no such chairperson is elected, or if at any meeting the chairperson is not present within fifteen (15) minutes after the time appointed for holding the meeting, the subcommittee members present may choose one (1) of their number to be chairperson of the meeting.
 
 **14g.** A subcommittee may meet and adjourn, as deemed necessary.
 
@@ -281,11 +281,11 @@ Version 1.11
 
 **14i.** If a vote results in a tie, the vote shall be deemed to be decided in the negative.
 
-## Part Fifteen: Resolutions of Management Committee without Meeting
+## Part Fifteen: Resolutions of Executive Committee without Meeting
 
-**15a.** A flying minute signed by all the members of the Management Committee shall be a valid and effectual as if it has been passed at a meeting of the Management Committee duly convened and held. 
+**15a.** A flying minute signed by all the members of the Executive Committee shall be a valid and effectual as if it has been passed at a meeting of the Executive Committee duly convened and held. 
 
-**15b.** Any such resolution may consist of several documents in like form, each signed by one (1) or more members of the Management Committee.
+**15b.** Any such resolution may consist of several documents in like form, each signed by one (1) or more members of the Executive Committee.
 
 **15c.** A flying minute may be digitally signed by any method acceptable to the Secretary.
 
@@ -315,7 +315,7 @@ Version 1.11
 - **18a.ii.** The receiving of reports from the President and Secretary.
 - **18a.iii.** The receiving of the auditor’s report on the financial affairs of the Squad for the last financial year.
 - **18a.iv.** The presenting of the audited statement to the meeting for adoption.
-- **18a.v.** The election of members of the Management Committee.
+- **18a.v.** The election of members of the Executive Committee.
 - **18a.vi.** The appointment of an auditor who shall be the nominee of the Union for club/societies or an independent auditor or who must be a member of the Institute of Chartered Accountants in Australia or the Australian Association of Accountants or a successor to either of these bodies.
 - **18a.vii.** The appointment of life members of the Squad.
 - **18a.viii.** The minutes of the annual general meeting shall be submitted to the clubs and Societies Administration Officer within seven (7) days of the annual general meeting.
@@ -325,14 +325,14 @@ Version 1.11
 
 **19a.** The Secretary shall convene a special general meeting by sending out notice of the meeting within fourteen (14) days of:
 
-- **19a.i.** Being directed to do so by the Management Committee.
-- **19a.ii.** Being given a requisition in writing signed by not less than one-third (1/3) of the members presently on the Management Committee or from ordinary members not less than the number of members required for a quorum at a general meeting as per 20a.
+- **19a.i.** Being directed to do so by the Executive Committee.
+- **19a.ii.** Being given a requisition in writing signed by not less than one-third (1/3) of the members presently on the Executive Committee or from ordinary members not less than the number of members required for a quorum at a general meeting as per 20a.
 
 **19b.** A requisition mentioned in subsection 19a.ii shall clearly state the reasons why such special general meeting is being convened and the nature of the business to be transacted thereat.
 
 ## Part Twenty: Quorum at a General Meeting
 
-**20a.** At any general meeting the number of members required to constitute a quorum shall be Double (two (2) times) the size of the Management Committee plus one (1) or 15% of the Squad’s regular membership plus one (1), whichever is the lesser. This is based on the membership list at the time that notice of the meeting is given.
+**20a.** At any general meeting the number of members required to constitute a quorum shall be Double (two (2) times) the size of the _Management_ Committee plus one (1) or 15% of the Squad’s financial members plus one (1), whichever is the lesser. This is based on the membership list at the time that notice of the meeting is given.
 
 **20b.** A member who attends a general meeting online shall count towards quorum.
 
@@ -340,20 +340,20 @@ Version 1.11
 
 **20d.** If within half an hour from the time appointed for the commencement of a general meeting a quorum is not present, the meeting, if convened upon the requisition of members as outlined in section 19a.ii, shall lapse.
 
-**20e.** If within half an hour from the time appointed for the commencement of a general meeting a quorum is not present, the meeting shall stand adjourned to the same day in the next week at the same time and place, or to such other day and at such other time and place as the Management Committee may determine, and if at the adjourned meeting a quorum is not present within half an hour from the time appointed for the meeting, the members present shall be a quorum.
+**20e.** If within half an hour from the time appointed for the commencement of a general meeting a quorum is not present, the meeting shall stand adjourned to the same day in the next week at the same time and place, or to such other day and at such other time and place as the Executive Committee may determine, and if at the adjourned meeting a quorum is not present within half an hour from the time appointed for the meeting, the members present shall be a quorum.
 
 **20f.** Notice for a meeting held in 20e must be given in the same way as was given for the original general meeting.
 
-**20g.** No person is eligible for a Management Committee position unless they were a member at the time the general meeting to fill the position was called.
+**20g.** No person is eligible for an Executive Committee position unless they were a member at the time the general meeting to fill the position was called.
 
 ## Part Twenty-One: Procedure at a general meeting
 
 **21a.** Unless otherwise provided by these rules, at every general meeting:
 
-- **21a.i.** The President shall preside as chairperson or if there is no President, or if the President is not present within fifteen (15) minutes after the time appointed for the holding of the meeting or is unwilling to act, the Secretary shall be the chairperson or if the Secretary is not present or is unwilling to act then the members present shall elect one (1) of their number to be chairperson of the meeting
-- **21a.ii.** The chairperson shall maintain order and conduct the meeting in a proper and orderly manner
-- **21a.iii.** Every question, matter or resolution shall be decided by a majority of votes of the members present
-  - **21a.iii.1.** every such resolution must be minuted.
+- **21a.i.** The President shall preside as chairperson. If there is no President, or if the President is not present within fifteen (15) minutes after the time appointed for the holding of the meeting or is unwilling to act, the Secretary shall be the chairperson. If the Secretary is not present or is unwilling to act, then the members present shall elect one (1) of their number to be chairperson of the meeting.
+- **21a.ii.** The chairperson shall maintain order and conduct the meeting in a proper and orderly manner.
+- **21a.iii.** Every question, matter or resolution shall be decided by a majority of votes of the members present.
+  - **21a.iii.1.** Every such resolution must be minuted.
 - **21a.iv.** No votes may be exercised by proxy.
 - **21a.v.** Where a member is attending online, the chairperson shall record their vote if the ballot is not secret.
 
@@ -361,7 +361,7 @@ Version 1.11
 
 **22a.** These rules may be amended or added to from time to time by a special resolution carried at any general meeting.
 
-**22b.** However, any amendment or addition is valid only if it is registered by the Management Committee and approved by the clubs and societies committee.
+**22b.** However, any amendment or addition is valid only if it is registered by the Executive Committee and approved by the clubs and societies committee.
 
 **22c.** On special resolutions:
 
@@ -384,9 +384,9 @@ Version 1.11
 
 **23c.** All monies shall be deposited in total as soon as practicable after receipt thereof.
 
-**23d.** The Management Committee shall determine the amount of petty cash which shall be kept.
+**23d.** The Executive Committee shall determine the amount of petty cash which shall be kept.
 
-**23e.** All expenditure shall be approved or ratified at a Management Committee meeting.
+**23e.** All expenditure shall be approved or ratified at a Executive Committee meeting.
 
 **23f.** As soon as practicable after the end of each financial year the treasurer shall cause to be prepared a statement containing the particulars of:
 
@@ -407,11 +407,11 @@ Version 1.11
 
 **25a.** The Squad acknowledges a special relationship with UQ Cyber.
 
-**25b.** The Management Committee may enter into agreements with the School to receive funding.
+**25b.** The Executive Committee may enter into agreements with the School to receive funding.
 
-**25c.** The Management Committee may invite any staff member of UQ Cyber to Management Committee meetings. Staff members invited in this way shall not be able to vote under section 13g unless they are also a member of the Management Committee.
+**25c.** The Executive Committee may invite any staff member of UQ Cyber to Executive Committee meetings. Staff members invited in this way shall not be able to vote under section 13g unless they are also a member of the Executive Committee.
 
-## Part Twenty-Six: Transition of Management Committee
+## Part Twenty-Six: Transition of Executive Committee
 
 **26a.** The outgoing President, Secretary, and Treasurer of the society shall serve as advisory team members to the new committee for a period of one semester to facilitate the smooth functioning of the society.
 
@@ -423,7 +423,7 @@ Version 1.11
 
 ## Part Twenty-Seven: Code of Conduct
 
-**27a.** The Management Committee shall create and maintain a Code of Ethics and Conduct that will be followed by members.
+**27a.** The Executive Committee shall create and maintain a Code of Ethics and Conduct that will be followed by members.
 
 **27b.** The purpose of this Code of Ethics and Conduct is to ensure the Squad’s continued access to the University of Queensland’s resources.
 
@@ -431,9 +431,9 @@ Version 1.11
 
 ## Part Twenty-Eight: Competitions Policy
 
-**28a.** The Management Committee shall create and maintain a Competitions policy that will appoint members to competition teams fairly.
+**28a.** The Executive Committee shall create and maintain a Competitions policy that will appoint members to competition teams fairly.
 
-**28b.** The Management Committee shall have the power to support members’ participation in competitions that meet the objectives of the Squad. Such powers include but are not limited to:
+**28b.** The Executive Committee shall have the power to support members’ participation in competitions that meet the objectives of the Squad. Such powers include but are not limited to:
 
 - **28b.i.** Disbursing or reimbursing funds for travel to competitions
 - **28b.ii.** Disbursing or reimbursing funds for registration in competitions
@@ -448,7 +448,7 @@ Version 1.11
 
 **29c.** Alterations to the equity and diversity policy must be agreed upon by both Equity Officers, or via a vote at any General Meeting of the Squad and minuted as follows:
 
-- **29c.i.** Within the minutes of the next Meeting of the Management Committee
+- **29c.i.** Within the minutes of the next Meeting of the Executive Committee
 - **29c.ii.** In the minutes of the General Meeting in which the vote took place
 
 ## Part Thirty: Life Membership
@@ -467,7 +467,7 @@ Version 1.11
 
 ## Part Thirty-One: Documents
 
-**31a.** The Management Committee shall provide for the safe custody of books, documents, instruments of title and securities of the Squad. 
+**31a.** The Executive Committee shall provide for the safe custody of books, documents, instruments of title and securities of the Squad. 
 
 **31b.** The financial year of the Squad shall start on the 1st of September and end on the 31st of August of the following calendar year.
 
