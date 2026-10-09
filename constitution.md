@@ -273,7 +273,7 @@ Version 1.11
 
 **14e.** Executive Committee may appoint the chairperson of such subcommittees or leave the election of the chairperson to the membership of the subcommittee.
 
-**14f.** If no such chairperson is elected, or if at any meeting the chairperson is not present within ten (15) minutes after the time appointed for holding the meeting, the subcommittee members present may choose one (1) of their number to be chairperson of the meeting.
+**14f.** If no such chairperson is elected, or if at any meeting the chairperson is not present within fifteen (15) minutes after the time appointed for holding the meeting, the subcommittee members present may choose one (1) of their number to be chairperson of the meeting.
 
 **14g.** A subcommittee may meet and adjourn, as deemed necessary.
 
@@ -332,7 +332,7 @@ Version 1.11
 
 ## Part Twenty: Quorum at a General Meeting
 
-**20a.** At any general meeting the number of members required to constitute a quorum shall be Double (two (2) times) the size of the _Management_ Committee plus one (1) or 15% of the Squad’s regular membership plus one (1), whichever is the lesser. This is based on the membership list at the time that notice of the meeting is given.
+**20a.** At any general meeting the number of members required to constitute a quorum shall be Double (two (2) times) the size of the _Management_ Committee plus one (1) or 15% of the Squad’s financial members plus one (1), whichever is the lesser. This is based on the membership list at the time that notice of the meeting is given.
 
 **20b.** A member who attends a general meeting online shall count towards quorum.
 
@@ -350,10 +350,10 @@ Version 1.11
 
 **21a.** Unless otherwise provided by these rules, at every general meeting:
 
-- **21a.i.** The President shall preside as chairperson or if there is no President, or if the President is not present within fifteen (15) minutes after the time appointed for the holding of the meeting or is unwilling to act, the Secretary shall be the chairperson or if the Secretary is not present or is unwilling to act then the members present shall elect one (1) of their number to be chairperson of the meeting
-- **21a.ii.** The chairperson shall maintain order and conduct the meeting in a proper and orderly manner
-- **21a.iii.** Every question, matter or resolution shall be decided by a majority of votes of the members present
-  - **21a.iii.1.** every such resolution must be minuted.
+- **21a.i.** The President shall preside as chairperson. If there is no President, or if the President is not present within fifteen (15) minutes after the time appointed for the holding of the meeting or is unwilling to act, the Secretary shall be the chairperson. If the Secretary is not present or is unwilling to act, then the members present shall elect one (1) of their number to be chairperson of the meeting.
+- **21a.ii.** The chairperson shall maintain order and conduct the meeting in a proper and orderly manner.
+- **21a.iii.** Every question, matter or resolution shall be decided by a majority of votes of the members present.
+  - **21a.iii.1.** Every such resolution must be minuted.
 - **21a.iv.** No votes may be exercised by proxy.
 - **21a.v.** Where a member is attending online, the chairperson shall record their vote if the ballot is not secret.
 

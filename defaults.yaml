@@ -1,0 +1,5 @@
+variables:
+  geometry:
+    - margin=2cm
+shift-heading-level-by: -1
+
